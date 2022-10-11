@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dad211de-23bc-4a7f-a671-e7e6eea3fab6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_quokka/ServiceMonitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_quokka/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_quokka/compliance.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_quokka/db_apis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_quokka/device_display.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_quokka/device_monitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_quokka/devices.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_quokka/extensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_quokka/host_display.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_quokka/host_monitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_quokka/host_portscan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_quokka/quokka_constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_quokka/quokka_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_quokka/run-monitor-all.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_quokka/service_display.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_quokka/service_monitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_quokka/services.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_quokka/stop-monitor-all.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_quokka/worker_apis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_worker/CaptureThread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_worker/PortscanThread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_worker/TracerouteThread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_worker/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_worker/quokka_worker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m10_messaging_worker/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/python-52-weeks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/python-52-weeks.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1eQIG9MrszRHo6GGQKMFYyZYXBK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../m09_ui_2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dad211de-23bc-4a7f-a671-e7e6eea3fab6" name="Default Changelist" comment="" />
+      <created>1594247292259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594247292259</updated>
+      <workItem from="1594247302357" duration="3238000" />
+      <workItem from="1594311410759" duration="349000" />
+      <workItem from="1594335500998" duration="52000" />
+      <workItem from="1594419759041" duration="8431000" />
+      <workItem from="1594487179698" duration="1792000" />
+      <workItem from="1594511219868" duration="52000" />
+      <workItem from="1594511497213" duration="151000" />
+      <workItem from="1595001948611" duration="740000" />
+      <workItem from="1595177409000" duration="713000" />
+      <workItem from="1595280342951" duration="695000" />
+      <workItem from="1598464336462" duration="30826000" />
+      <workItem from="1599060021536" duration="598000" />
+      <workItem from="1599061728828" duration="4168000" />
+      <workItem from="1599079622249" duration="1742000" />
+      <workItem from="1599081663299" duration="837000" />
+      <workItem from="1599437005638" duration="1477000" />
+      <workItem from="1599750926869" duration="22905000" />
+      <workItem from="1600277342484" duration="9037000" />
+      <workItem from="1611089056562" duration="158000" />
+      <workItem from="1616779938370" duration="37000" />
+      <workItem from="1616781638413" duration="28104000" />
+      <workItem from="1617472446886" duration="1332000" />
+      <workItem from="1617660373309" duration="629000" />
+      <workItem from="1617722557182" duration="2605000" />
+      <workItem from="1617809337066" duration="3530000" />
+      <workItem from="1617829413809" duration="270000" />
+      <workItem from="1617831331003" duration="172000" />
+      <workItem from="1618089233995" duration="135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+- ip_address: 10.1.254.68
+  name: CSR-sandbox
+  os: iosxe
+  hostname: ios-xe-mgmt.cisco.com
+  vendor: cisco
+
+- ip_address: 10.1.254.67
+  name: NXOS-sandbox (SSH)
+  os: nxos-ssh
+  hostname: sbx-nxos-mgmt.cisco.com
+  vendor: cisco
